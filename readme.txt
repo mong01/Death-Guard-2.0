@@ -1,4 +1,4 @@
-Place this file in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. To make an army, use the "Unbound Army (Faction)" option.
+Place this file in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. To make an army, use the "Unbound Army (Faction)" option, remove the Detachment Command Cost and change the Game Type to "Open".
 Contains changes for most Death Guard units, point changes and/or edited abilities and profiles.
 
 If you discover a bug, inconsistency or etc., click on the Issues tab, then New Issue. Describe your problem clearly and concisely and I'll fix it as soon as. You could also give me some criticism or give any ideas for this stuff.
